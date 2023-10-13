@@ -8,3 +8,4 @@
 [What is Python? Powerful, intuitive programming](https://www.infoworld.com/article/3204016/what-is-python-powerful-intuitive-programming.html)
 
 ![384103167_10225673683012766_508507832779194276_n](https://github.com/Loehnert12/Homework/assets/145857486/f6d0f33d-fb5e-4c0b-99e6-7f0dc46fe346)
+### This is my fiance and my son at the aviation museum in Pensacola, FL. These are my two favorite people in my life. 
