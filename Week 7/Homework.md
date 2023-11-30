@@ -53,7 +53,7 @@ WHERE VIN like "%3E1EA1J"
 SELECT ModelYear, Make, Model, ElectricVehicleType, ElectricRange
 FROM EVRegistry
 WHERE (Make= "TESLA") or (Make= "CHEVROLET")
-ORDER by Make ASC, ModelYear ASC  
+ORDER by Make DESC, ModelYear DESC 
 
 ```
 ## Question 4
